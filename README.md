@@ -1,0 +1,2 @@
+# CosmoDBPractice
+Self Practice
